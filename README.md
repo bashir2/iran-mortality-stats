@@ -1,6 +1,11 @@
 
 __[NOTE: This is a work in progress shared for better collaboration.]__
 
+
+For a summary of this in Persian, see [this thread](https://twitter.com/BashirSadjad/status/1591752026610102272),
+or [the unrolled version](https://threadreaderapp.com/thread/1591752026610102272.html).
+
+
 # What is this?
 
 The is a [notebook](iran_mortality_stats.ipynb) for analyzing official numbers of registered deaths
